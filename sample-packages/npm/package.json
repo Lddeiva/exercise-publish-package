@@ -1,3 +1,7 @@
 {
-  "your": "json config here"
+  "name": "@Lddeiva/exercise-publish-package",
+  "repository": "https://github.com/Lddeiva/exercise-publish-package.git",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
